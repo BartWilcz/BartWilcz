@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bart</h1>
 <h3 align="center">Data Analyst and Automation specialist</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I really enjoy learning new technologies and solving problems
 
 - 🌱 I’m currently learning **Azure, HTML, CSS**
 
