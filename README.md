@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bart</h1>
+<h1 align="center">Hi 👋, 
+                I'm Bart</h1>
 <h3 align="center">Data Analyst and Automation specialist</h3>
 
 - 🔭 I really enjoy learning new technologies and solving problems
