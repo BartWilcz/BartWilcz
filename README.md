@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Azure, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [link](https://github.com/BartWilcz?tab=repositories)
+- 👨‍💻 All of my projects are available at [[link](https://github.com/BartWilcz?tab=repositories)]
 
 - 💬 Ask me about **vba, python**
 
