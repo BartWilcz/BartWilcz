@@ -11,7 +11,7 @@
 - 📫 How to reach me **linkedIn**
 
 
-Portfolio Projects
+<h3 align="left">Portfolio Projects</h3>
 
 | Topic | Summary |
 | --- | --- |
