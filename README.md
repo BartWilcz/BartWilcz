@@ -15,10 +15,10 @@ Portfolio Projects
 
 | Topic | Summary |
 | --- | --- |
-| Data Analysis Projects[ https://github.com/BartWilcz/DataAnalysis] | My python data analysis projects |
+| [https://github.com/BartWilcz/DataAnalysis](Data Analysis Projects) | My python data analysis projects |
 | Simple Python projects | Various python projects using different libraries like: tkinter, Selenium, beautifulSoup, etc.|
 
-
+[https://github.com/youssefHosni](https://github.com/youssefHosni)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bartosz-wilczy%c5%84ski-7b4b2915b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bartosz-wilczy%c5%84ski-7b4b2915b/" height="30" width="40" /></a>
