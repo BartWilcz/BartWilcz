@@ -6,11 +6,19 @@
 
 - 🌱 I’m currently learning **Azure, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [link](https://github.com/BartWilcz/Python-Portfolio-Projects)
-
 - 💬 Ask me about **vba, python**
 
 - 📫 How to reach me **linkedIn**
+
+
+Portfolio Projects
+
+| Topic | Summary |
+| --- | --- |
+| Data Analysis Projects | My python data analysis projects |
+| Simple Python projects | Various python projects |
+| Simple Python projects | Various python projects |
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
