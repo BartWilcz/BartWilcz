@@ -16,7 +16,7 @@ Portfolio Projects
 | Topic | Summary |
 | --- | --- |
 | [Data Analysis Projects](https://github.com/BartWilcz/DataAnalysis) | My python data analysis projects |
-| Simple Python projects | Various python projects using different libraries like: tkinter, Selenium, beautifulSoup, etc.|
+| [Simple Python projects] (https://github.com/BartWilcz/PythonPrograms) | Various python projects using different libraries like: tkinter, Selenium, beautifulSoup, etc.|
 
 [https://github.com/youssefHosni](https://github.com/youssefHosni)
 <h3 align="left">Connect with me:</h3>
