@@ -16,8 +16,7 @@ Portfolio Projects
 | Topic | Summary |
 | --- | --- |
 | Data Analysis Projects | My python data analysis projects |
-| Simple Python projects | Various python projects |
-| Simple Python projects | Various python projects |
+| Simple Python projects | Various python projects using different libraries like: tkinter, Selenium, beautifulSoup, etc.|
 
 
 <h3 align="left">Connect with me:</h3>
