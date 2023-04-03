@@ -2,13 +2,7 @@
                 I'm Bart</h1>
 <h3 align="center">Data Analyst and Automation specialist</h3>
 
-- 🔭 I really enjoy learning new technologies and solving problems
-
-- 🌱 I’m currently learning **Azure, HTML, CSS**
-
-- 💬 Ask me about **vba, python**
-
-- 📫 How to reach me **linkedIn**
+ I'm business analyst and developer with a strong passion for data analysis  and visualization. Currently seeking new opportunities as a data analyst, I have a proven track record of using my skills to identify and solve complex business problems. I am eager to expand my skillset and take on fresh challenges in order to further develop my expertise in the field.
 
 
 
