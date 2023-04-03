@@ -16,7 +16,7 @@
 
 | Topic | Summary |
 | --- | --- |
-| [Data Analysis Projects](https://github.com/BartWilcz/DataAnalysis) | My python data analysis projects |
+| [Data Analysis Projects](https://github.com/BartWilcz/DataAnalysis) | Python data analysis projects |
 | [Simple Python projects](https://github.com/BartWilcz/PythonPrograms) | Various python projects using different libraries like: tkinter, Selenium, beautifulSoup, etc.|
 
 <h3 align="left">Connect with me:</h3>
