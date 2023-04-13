@@ -12,7 +12,7 @@
 | --- | --- |
 | [Data Analysis Projects](https://github.com/BartWilcz/DataAnalysis) | Python data analysis projects |
 | [Simple Python projects](https://github.com/BartWilcz/PythonPrograms) | Various python projects using different libraries like: tkinter, Selenium, beautifulSoup, etc.|
-| [Data Visualization](https://github.com/BartWilcz/DataAnalysis) | Data visualization projects designed in Tableau |
+| [Data Visualization](https://public.tableau.com/app/profile/bartosz5304) | Data visualization projects designed in Tableau |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
