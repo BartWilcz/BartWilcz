@@ -11,7 +11,7 @@
 | Topic | Summary |
 | --- | --- |
 | [Data Analysis Projects](https://github.com/BartWilcz/DataAnalysis) | Python data analysis projects |
-| [Data Science Projects](https://github.com/BartWilcz/DataScience) | Python data Science projects |
+| [Data Science Projects](https://github.com/BartWilcz/datascience) | Python data Science projects |
 | [Simple Python projects](https://github.com/BartWilcz/PythonPrograms) | Various python projects using different libraries like: tkinter, Selenium, beautifulSoup, etc.|
 | [Data Visualization](https://public.tableau.com/app/profile/bartosz5304) | Data visualization projects designed in Tableau |
 
