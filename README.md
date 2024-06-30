@@ -10,7 +10,7 @@
 
 | Topic | Summary |
 | --- | --- |
-| [Data Projects](https://github.com/BartWilcz/DataAnalysis) | Python data analysis projects |
+| [User Activity Analysis](https://github.com/BartWilcz/DataAnalysis/blob/main/01.%20Users%20Activity%20Analysis.ipynb) | The primary objective is to provide Bellabeat stakeholders with valuable insights and patterns regarding the usage of their smart devices. A comprehensive user analysis will unlock the potential for informed decision-making in terms of marketing strategy and product development. |
 | [Python projects](https://github.com/BartWilcz/PythonPrograms) | Various python projects using different libraries like: tkinter, Selenium, beautifulSoup, etc.|
 | [Data Visualization](https://public.tableau.com/app/profile/bartosz5304) | Data visualization projects designed in Tableau |
 
