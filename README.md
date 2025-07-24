@@ -2,7 +2,7 @@
                 I'm Bartosz</h1>
 <h3 align="center">Data Analyst and Automation specialist</h3>
 
- I'm business analyst and developer with a strong passion for data analysis  and visualization. Currently seeking new opportunities in financial sector and data analytics field. I have a proven track record of using my skills to identify and solve complex business problems. I am eager to expand my skillset and take on fresh challenges in order to further develop my expertise in the field.
+ I'm business analyst and developer with a strong passion for data analysis  and visualization. I have a proven track record of using my skills to identify and solve complex business problems.
 
 
 
